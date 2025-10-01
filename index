@@ -3,24 +3,106 @@
 <html>
     <head>
 <meta charset="utf-8">
-<title>Favorite Musical Group</title>
-<style>
-body {
-    color: #c5e3eb
-}
-h1 {
-    .lobster-regular 
-  font-family: "Lobster", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-</style>
+<title>Sabrina Carpenter - My Favorite Musical Artist</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 2em;
+    background: #c5e3eb
+}
+header h1 {
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    font-size: 2.8em;
+    color: #d87093;
+    margin-bottom: 0.2em;
+        }
+ p {
+    font-size: 1.15em;
+    color: #333;
+    max-width: 700px;
+        }
+  ul {
+            font-size: 1.07em;
+            color: #444;
+            margin-bottom: 1.2em;
+        }
+        a {
+            color: #6c3483;
+            text-decoration: underline;
+        }
+        dl {
+            font-size: 1.07em;
+            max-width: 700px;
+        }
+        dt {
+            font-weight: bold;
+            color: #d87093;
+            margin-top: 1em;
+        }
+        dd {
+            margin-left: 1.1em;
+            margin-bottom: 0.7em;
+            color: #444;
+        }
+        footer {
+            font-size: 0.85em;
+            color: #555;
+            margin-top: 2.5em;
+            border-top: 1px solid #f8bbd0;
+            padding-top: 0.8em;
+        }
+        footer i {
+            font-style: italic;
+        }
+    </style>
 </head>
 <body>
-<em><h1>Sabrina Carpenter</h1></em>
+    <header>
+        <h1>Sabrina Carpenter</h1>
+    </header>
 
+    <p>
+        Sabrina Carpenter is an American singer, songwriter, and actress who has captured hearts with her catchy pop melodies, honest lyrics, and expressive vocals. Though she started her career on Disney Channel, Sabrina's music now blends pop with elements of R&B and indie, creating songs that are both relatable and danceable. Her work explores themes of love, self-discovery, and empowerment, making her a standout solo artist in today's music scene.
+    </p>
+
+    <h2>Group Members</h2>
+    <ul>
+        <li>Sabrina Carpenter (Lead vocals, songwriter)</li>
+        <li>Brian Malik Baptiste (Producer, collaborator)</li>
+        <li>Sarah Hudson (Songwriter, collaborator)</li>
+        <li>Jason Evigan (Producer)</li>
+        <li>Jorgen Odegard (Producer)</li>
+    </ul>
+
+    <h2>Favorite CD Releases & Reviews</h2>
+    <dl>
+        <dt>emails i can't send (2022)</dt>
+        <dd>
+            Sabrina's most personal album to date, "emails i can't send" showcases her vulnerability and clever songwriting. Tracks like "because i liked a boy" and "Vicious" blend sharp lyricism with infectious pop beats. The album tells the story of heartbreak, growth, and self-acceptance.
+        </dd>
+        <dt>Singular: Act II (2019)</dt>
+        <dd>
+            "Singular: Act II" is energetic and bold, featuring anthems like "In My Bed" and "Exhale". Sabrina explores themes of independence and confidence, with upbeat production that makes every song feel empowering. The album solidifies her place as a pop powerhouse.
+        </dd>
+        <dt>Evolution (2016)</dt>
+        <dd>
+            "EVOLution" marks Sabrina's transition from teen pop to more mature sounds. The album features standout tracks like "Thumbs" and "On Purpose", with introspective lyrics and catchy hooks. It's a testament to her growth as an artist and her ability to connect with listeners.
+        </dd>
+    </dl>
+
+    <p>
+        <a href="https://www.sabrinacarpenter.com/" target="_blank">Visit Sabrina Carpenter's Official Website</a>
+    </p>
+
+    <footer>
+        Leyla Bocanegra<br>
+        Web Authoring | ITSE-2313-NT1-25/FA<br>
+        <i>Leyla.Bocanegra@nc.navarrocollege.edu</i><br>
+        Assignment: Lab #1 - HTML Basics
+    </footer>
 </body>
 </html>
